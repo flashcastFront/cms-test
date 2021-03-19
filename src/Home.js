@@ -33,7 +33,7 @@ export default function Home() {
 
 const HOME_BLOCKS = {
   hero: heroBlock,
-  images: imagesBlock,
-  paragraph: paragraphBlock,
-  features: featureListBlock,
+  // images: imagesBlock,
+  // paragraph: paragraphBlock,
+  // features: featureListBlock,
 };
